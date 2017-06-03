@@ -16,19 +16,23 @@ Des exercices simples pour mettre en place les notions de bases de géométrie
 
 # Glossaire
 
-* repère orthonormé
+* repère orthonormé (viewport)
 * coordonnée (x, y)
+* unité de mesure (px)/ échelle (viewbox)
+* formes
 * ligne (x1, y1, x2, y2)
 * Rectangle / carré
 * Ellipse / cercle
+* triangle (isocèle, equilatérale, rectangle)
+* polygone (parallepipède, trapèze, hexagone, pintagone, ...)
 * dimension (largeur / hauteur, rayon)
 * unité de mesure (pixel, point, cm)
-* échelle (%)
-* homothétie
-* translation
+
+* transformation
+* homothétie (scale 100% == 1)
+* translation (translate)
 * rotation
 * angle (degrés / radians)
-* polygone (parallepipède, trapèze, hexagone, pintagone, ...)
 
 # Préparation
 
