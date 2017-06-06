@@ -36,11 +36,11 @@ Des exercices simples pour mettre en place les notions de bases de géométrie
 
 # Préparation
 
-### Soit :
+### ~~Soit :~~
 
-1. vous forkez ce projet (le projet utilise browser-sync pour l'auto-refresh du navigateur)
-2. npm install
-3. npm start
+1. ~~vous forkez ce projet (le projet utilise browser-sync pour l'auto-refresh du navigateur)~~
+2. ~~npm install~~
+3. ~~npm start~~
 
 ### Soit :
 
