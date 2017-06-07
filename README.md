@@ -66,6 +66,7 @@ Lire chaque énoncés et créer le mark up correspondant :
      3. Créer un cercle de 100 de diamètre
      4. Créer le centre du cercle en x: 170 et y: 170
      ...
+     5. dessiner le logo de Simplon
 
 
 
