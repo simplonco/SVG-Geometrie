@@ -17,12 +17,16 @@ Des exercices simples pour mettre en place les notions de bases de géométrie
 # Glossaire
 
 * repère orthonormé (viewport)
-* coordonnée (x, y)
+* Abscisse
+* Ordonnée
+* Origine (du repère orthonormée)
 * unité de mesure (px)/ échelle (viewbox)
+* coordonnée (x, y)
+* point (x, y)
 * formes
 * ligne (x1, y1, x2, y2)
-* Rectangle / carré
-* Ellipse / cercle
+* Rectangle / carré (x, y, width, height)
+* Ellipse / cercle (rayon [radius], cx, cy)
 * triangle (isocèle, equilatérale, rectangle)
 * polygone (parallepipède, trapèze, hexagone, pintagone, ...)
 * dimension (largeur / hauteur, rayon)
